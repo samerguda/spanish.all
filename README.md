@@ -1,0 +1,2 @@
+# spanish.all
+spanish.all
